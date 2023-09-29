@@ -69,6 +69,6 @@ There are three scripts you can run, each representing one of the three approach
 
 ## License
 
-- ISC
+- MIT
 
 ---
