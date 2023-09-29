@@ -19,7 +19,7 @@
     "Integration"
   ],
   "author": "Roshan Milinda",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@apollo/client": "^3.8.4",
     "@aws-amplify/core": "^5.8.5",
