@@ -1,0 +1,33 @@
+{
+  "name": "appsync-cognito-apollo-amplify-test",
+  "version": "1.0.0",
+  "description": "A demonstration of integrating AWS AppSync with Cognito for authentication, and using client libraries such as Apollo and Amplify for querying GraphQL endpoints.",
+  "main": "full-amplify.js",
+  "scripts": {
+    "start-amplify": "node full-amplify.js",
+    "start-apollo": "node cognito-id-with-apollo.js",
+    "start-ca": "node cognito-id-with-amplify.js"
+  },
+  "keywords": [
+    "AWS",
+    "AppSync",
+    "Cognito",
+    "Apollo",
+    "Amplify",
+    "GraphQL",
+    "Authentication",
+    "Integration"
+  ],
+  "author": "Roshan Milinda",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.8.4",
+    "@aws-amplify/core": "^5.8.5",
+    "@aws-amplify/ui-react": "^5.3.1",
+    "amazon-cognito-identity-js": "^6.3.6",
+    "aws-amplify": "^5.3.11",
+    "graphql": "^16.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
