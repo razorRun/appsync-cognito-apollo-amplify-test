@@ -21,7 +21,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone this repository:
     ```bash
-    git clone [<repository-url>](https://github.com/razorRun/appsync-cognito-apollo-amplify-test)
+    git clone https://github.com/razorRun/appsync-cognito-apollo-amplify-test
     cd appsync-cognito-apollo-amplify-test
     ```
 
